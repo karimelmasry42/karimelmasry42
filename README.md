@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=karimelmasry42" alt="karimelmasry42" /></a> </p>
 
-- 👨🏻‍💻 Currently working for [RonEn's Software and AI team](https://github.com/orgs/RobEn-AAST/teams/ai)
-
 - 🌱 Currently learning **data structures, C programming, git and zsh**
 
 - 📫 How to reach me **karimelmasry42@icloud.com**
