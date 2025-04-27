@@ -1,15 +1,4 @@
 <h1 align="center">Hi 👋, I'm Karim</h1>
-<h3 align="center">I'm a computer scientist with a passion for learning.</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=karimelmasry42&label=Profile%20views&color=0e75b6&style=flat" alt="karimelmasry42" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=karimelmasry42" alt="karimelmasry42" /></a> </p>
-
-- 🌱 Currently learning **data structures, C programming, git and zsh**
-
-- 📫 How to reach me **karimelmasry42@icloud.com**
-
-- ⚡ Fun fact **I use a Mac**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
